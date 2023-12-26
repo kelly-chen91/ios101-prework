@@ -2,9 +2,9 @@
 
 Submitted by: **Kelly Chen**
 
-**ColorChange** is an app that tells information about me and changes the background color to a random color when the button is clicked.
+**ColorChange** is an app that tells information about me and changes the background color to a random color when the button is clicked. The text color also changes as well based on the background color to improve readability. 
 
-Time spent: **1** hour spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 216.46586345381525%; height: 0;"><iframe src="https://www.loom.com/embed/32cc753480964a6289cb691a7caf5fde?sid=0d5769a1-02ab-485d-a0ac-eb77dc18f729" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
 
@@ -25,9 +23,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+A challenge I faced while building the app is changing the text color. According to the tutorials I have seen online, it seems like I need to create a new struct, but in the end I was able to figure that I can do the same way I did with dragging the element over and change the text color that way. 
+
+Another challege I faced was navigating through XCode as it is a new IDE that I am working with. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kelly Chen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

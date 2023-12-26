@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         name.textColor = contrast_color
         university.textColor = contrast_color
         career.textColor = contrast_color
-        
     }
     
     func changeColor() -> UIColor {
