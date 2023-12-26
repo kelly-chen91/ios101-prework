@@ -15,11 +15,17 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    
+    @IBOutlet weak var name: UILabel!
+    @IBOutlet weak var university: UILabel!
+    @IBOutlet weak var career: UILabel!
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let random_color = changeColor()
-//        let contrast_color = findContrastColor(random_color)
+        let contrast_color = findContrastColor(color: random_color)
         view.backgroundColor = random_color
+        name.textColor = contrast_color
+        university.textColor = contrast_color
+        career.textColor = contrast_color
         
     }
     
