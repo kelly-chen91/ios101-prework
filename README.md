@@ -24,6 +24,23 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
+**iMessage**
+- [ ] Light/Dark mode based on system's background
+- [ ] Edit/Delete message
+- [ ] Stickers
+
+**YouTube**
+- [ ] Search function
+- [ ] minimize video while browsing for other videos
+- [ ] YouTube shorts
+
+**Instagram**
+- [ ] Discover page
+- [ ] Like comments/posts
+- [ ] Delete message
+
+An app I like to build is a medicine/diet tracker app. For people who are on medical diet, they are told to avoid or limit certain foods. Some features that can be on the app are tracking the medicine intake on daily basis with push notification reminders to take the medicine. Another feature would be allowing the user customize their diet and add in their meals to see if the user have exceeded the limit they are supposed to take. 
+
 
 ## Notes
 
